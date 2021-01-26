@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://tripl3fff.github.io/dev.io.recipe-blog/">
+    <a href="https://veeryaa.github.io/dev.io.recipe-blog/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/tripl3fff/dev.io.recipe-blog">
+    <a href="https://github.com/veeryaa/dev.io.recipe-blog">
       Solution
     </a>
     <span> | </span>
@@ -24,4 +24,4 @@
 
 ## Contact
 
-- GitHub [@tripl3fff](https://{github.com/tripl3fff})
+- GitHub [@veeryaa](https://{github.com/veeryaa})
